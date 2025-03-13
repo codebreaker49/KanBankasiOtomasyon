@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\C# Final\\Okul Otomasyon\\KanBankas\u0131Otomomasyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9270C01-12B6-43A4-9D18-F78B0B85D333}|KanBankas\u0131Otomomasyon\\KanBankas\u0131Otomomasyon.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\c# final\\okul otomasyon\\kanbankas\u0131otomomasyon\\kanbankas\u0131otomomasyon\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9270C01-12B6-43A4-9D18-F78B0B85D333}|KanBankas\u0131Otomomasyon\\KanBankas\u0131Otomomasyon.csproj|solutionrelative:kanbankas\u0131otomomasyon\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9270C01-12B6-43A4-9D18-F78B0B85D333}|KanBankas\u0131Otomomasyon\\KanBankas\u0131Otomomasyon.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\c# final\\okul otomasyon\\kanbankas\u0131otomomasyon\\kanbankas\u0131otomomasyon\\gecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9270C01-12B6-43A4-9D18-F78B0B85D333}|KanBankas\u0131Otomomasyon\\KanBankas\u0131Otomomasyon.csproj|solutionrelative:kanbankas\u0131otomomasyon\\gecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9270C01-12B6-43A4-9D18-F78B0B85D333}|KanBankas\u0131Otomomasyon\\KanBankas\u0131Otomomasyon.csproj|c:\\users\\bilal\\onedrive\\masa\u00FCst\u00FC\\c# final\\okul otomasyon\\kanbankas\u0131otomomasyon\\kanbankas\u0131otomomasyon\\gecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9270C01-12B6-43A4-9D18-F78B0B85D333}|KanBankas\u0131Otomomasyon\\KanBankas\u0131Otomomasyon.csproj|solutionrelative:kanbankas\u0131otomomasyon\\gecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gecis.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\C# Final\\Okul Otomasyon\\KanBankas\u0131Otomomasyon\\KanBankas\u0131Otomomasyon\\Gecis.cs",
+              "RelativeDocumentMoniker": "KanBankas\u0131Otomomasyon\\Gecis.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\C# Final\\Okul Otomasyon\\KanBankas\u0131Otomomasyon\\KanBankas\u0131Otomomasyon\\Gecis.cs",
+              "RelativeToolTip": "KanBankas\u0131Otomomasyon\\Gecis.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T03:33:19.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gecis.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\C# Final\\Okul Otomasyon\\KanBankas\u0131Otomomasyon\\KanBankas\u0131Otomomasyon\\Gecis.cs",
+              "RelativeDocumentMoniker": "KanBankas\u0131Otomomasyon\\Gecis.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\C# Final\\Okul Otomasyon\\KanBankas\u0131Otomomasyon\\KanBankas\u0131Otomomasyon\\Gecis.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KanBankas\u0131Otomomasyon\\Gecis.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T03:32:38.378Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnaSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\C# Final\\Okul Otomasyon\\KanBankas\u0131Otomomasyon\\KanBankas\u0131Otomomasyon\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "KanBankas\u0131Otomomasyon\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Masa\u00FCst\u00FC\\C# Final\\Okul Otomasyon\\KanBankas\u0131Otomomasyon\\KanBankas\u0131Otomomasyon\\AnaSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KanBankas\u0131Otomomasyon\\AnaSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T03:00:51.207Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
